@@ -1,14 +1,12 @@
-README template
+# _Oblique Strategies_
 
-# _Rides_
+#### _This is a cheap homage to ENO & Jarmish 08.15.2016_
 
-#### _Used branching logic to display different elements on a webpage 08.11.2016_
-
-#### By _**Stephen Newkirk and Jon Toler**_
+#### By _**HK Kahng and Jon Toler**_
 
 ## Description
 
-_A amusement park site that displays different rides based on the user's height. We used Javascript to convert feet to inches and display rides based on that converted value._
+_This is a randomizing JS, which a cheaper homage to Brian Eno's Oblique Strategies. With the use of Ramdonizer, Math function.
 
 ## Known Bugs
 
@@ -21,9 +19,10 @@ _HTML_
 _CSS_
 _Javascript_
 _jQuery_
+_Boot_strap_
 
 ### License
 
 _This software is licensed under the MIT license._
 
-Copyright (c) 2016 Stephen Newkirk and Jon Toler All Rights Reserved.
+Copyright (c) 2016 HK Kahng and Jon Toler All Rights Reserved.
